@@ -8,9 +8,9 @@
 
 ## 结构型（Structural Pattern）
 
-- [代理模式（Proxy Pattern）]()
-- [适配器模式（Adapter Pattern）]()
-- [桥接模式（Bridge Pattern）]()
+- [代理模式（Proxy Pattern）](StructuralPattern/ProxyPattern.js)
+- [适配器模式（Adapter Pattern）](StructuralPattern/AdapterPattern.js)
+- [桥接模式（Bridge Pattern）](StructuralPattern/BridgePattern.js)
 - [组合模式（Composite Pattern）]()
 - [装饰模式（Decorator Pattern）]()
 - [外观模式（Facade Pattern）]()
