@@ -7,7 +7,7 @@
  */
 
 // 状态变化
-// PENDING -> FULFOLLED
+// PENDING -> FULFILLED
 // PENDING -> REJECTED
 const PENDING = "pending";
 const FULFILLED = "fulfilled";
